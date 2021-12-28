@@ -50,5 +50,5 @@ image of login page: https://github.com/CharlesChaseIII/Revature-Project-1/blob/
 image of accounts page: https://github.com/CharlesChaseIII/Revature-Project-1/blob/main/Project01_Capture03.PNG
 
 License
-This project uses the following license: <Eclipse Public License>.
+This project uses the following license: Eclipse Public License.
 
